@@ -1,0 +1,12 @@
+/Users/qrq/Documents/code/photo_Lensfolio/src-tauri/target/debug/deps/libstate-bf9732bc1a3c178d.rmeta: /Users/qrq/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.5.3/src/lib.rs /Users/qrq/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.5.3/src/ident_hash.rs /Users/qrq/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.5.3/src/storage.rs /Users/qrq/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.5.3/src/init.rs /Users/qrq/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.5.3/src/shim.rs /Users/qrq/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.5.3/src/container.rs
+
+/Users/qrq/Documents/code/photo_Lensfolio/src-tauri/target/debug/deps/libstate-bf9732bc1a3c178d.rlib: /Users/qrq/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.5.3/src/lib.rs /Users/qrq/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.5.3/src/ident_hash.rs /Users/qrq/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.5.3/src/storage.rs /Users/qrq/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.5.3/src/init.rs /Users/qrq/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.5.3/src/shim.rs /Users/qrq/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.5.3/src/container.rs
+
+/Users/qrq/Documents/code/photo_Lensfolio/src-tauri/target/debug/deps/state-bf9732bc1a3c178d.d: /Users/qrq/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.5.3/src/lib.rs /Users/qrq/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.5.3/src/ident_hash.rs /Users/qrq/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.5.3/src/storage.rs /Users/qrq/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.5.3/src/init.rs /Users/qrq/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.5.3/src/shim.rs /Users/qrq/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.5.3/src/container.rs
+
+/Users/qrq/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.5.3/src/lib.rs:
+/Users/qrq/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.5.3/src/ident_hash.rs:
+/Users/qrq/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.5.3/src/storage.rs:
+/Users/qrq/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.5.3/src/init.rs:
+/Users/qrq/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.5.3/src/shim.rs:
+/Users/qrq/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.5.3/src/container.rs:

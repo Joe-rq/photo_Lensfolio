@@ -1,0 +1,262 @@
+.sidebar {
+  width: 300px;
+  background: #1a1a1a;
+  border-right: 1px solid #333;
+  padding: 1rem;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.sidebar-section {
+  border-bottom: 1px solid #333;
+  padding-bottom: 1rem;
+}
+
+.sidebar-section:last-child {
+  border-bottom: none;
+  padding-bottom: 0;
+}
+
+.sidebar-section h3 {
+  margin: 0 0 1rem 0;
+  color: #fff;
+  font-size: 1.1rem;
+}
+
+.primary-button {
+  width: 100%;
+  background: #646cff;
+  color: white;
+  border: none;
+  padding: 0.75rem 1rem;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: 500;
+  transition: background-color 0.2s;
+}
+
+.primary-button:hover {
+  background: #535bf2;
+}
+
+.filter-group {
+  margin-bottom: 1rem;
+}
+
+.filter-group label {
+  display: block;
+  margin-bottom: 0.5rem;
+  font-weight: 500;
+  color: #ccc;
+}
+
+.rating-filter {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.rating-button {
+  padding: 0.4rem 0.8rem;
+  background: #333;
+  color: #fff;
+  border: 1px solid #555;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.9rem;
+  transition: all 0.2s;
+}
+
+.rating-button:hover {
+  background: #444;
+}
+
+.rating-button.active {
+  background: #646cff;
+  border-color: #646cff;
+}
+
+.tag-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.tag-filter {
+  padding: 0.3rem 0.6rem;
+  background: #333;
+  color: #fff;
+  border: 1px solid #555;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.8rem;
+  transition: all 0.2s;
+}
+
+.tag-filter:hover {
+  background: #444;
+}
+
+.tag-filter.active {
+  background: #4CAF50;
+  border-color: #4CAF50;
+}
+
+.clear-filters {
+  background: #ff6b6b;
+  color: white;
+  border: none;
+  padding: 0.4rem 0.8rem;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.8rem;
+}
+
+.clear-filters:hover {
+  background: #ff5252;
+}
+
+.selection-info {
+  background: #2a2a2a;
+  padding: 0.5rem;
+  border-radius: 4px;
+  text-align: center;
+  margin-bottom: 1rem;
+  color: #ccc;
+}
+
+.operation-group {
+  margin-bottom: 1rem;
+}
+
+.operation-group label {
+  display: block;
+  margin-bottom: 0.5rem;
+  font-weight: 500;
+  color: #ccc;
+}
+
+.tag-input {
+  display: flex;
+  gap: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.tag-input input {
+  flex: 1;
+  padding: 0.5rem;
+  background: #2a2a2a;
+  border: 1px solid #555;
+  border-radius: 4px;
+  color: #fff;
+}
+
+.tag-input input::placeholder {
+  color: #888;
+}
+
+.tag-input button {
+  background: #4CAF50;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.tag-input button:hover {
+  background: #45a049;
+}
+
+.quick-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3rem;
+}
+
+.quick-tag {
+  padding: 0.2rem 0.5rem;
+  background: #444;
+  color: #fff;
+  border: 1px solid #666;
+  border-radius: 3px;
+  cursor: pointer;
+  font-size: 0.8rem;
+  transition: all 0.2s;
+}
+
+.quick-tag:hover {
+  background: #555;
+}
+
+.rating-buttons {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.action-button {
+  width: 100%;
+  background: #ff9800;
+  color: white;
+  border: none;
+  padding: 0.6rem 1rem;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: 500;
+}
+
+.action-button:hover {
+  background: #f57c00;
+}
+
+@media (prefers-color-scheme: light) {
+  .sidebar {
+    background: #f5f5f5;
+    border-right-color: #ddd;
+  }
+  
+  .sidebar-section {
+    border-bottom-color: #ddd;
+  }
+  
+  .sidebar-section h3 {
+    color: #333;
+  }
+  
+  .filter-group label,
+  .operation-group label {
+    color: #666;
+  }
+  
+  .rating-button,
+  .tag-filter,
+  .quick-tag {
+    background: #fff;
+    color: #333;
+    border-color: #ccc;
+  }
+  
+  .rating-button:hover,
+  .tag-filter:hover,
+  .quick-tag:hover {
+    background: #f0f0f0;
+  }
+  
+  .selection-info {
+    background: #e0e0e0;
+    color: #666;
+  }
+  
+  .tag-input input {
+    background: #fff;
+    border-color: #ccc;
+    color: #333;
+  }
+  
+  .tag-input input::placeholder {
+    color: #999;
+  }
+} 
