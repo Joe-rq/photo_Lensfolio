@@ -45,7 +45,9 @@
         "depends": []
       },
       "externalBin": [],
-      "icon": [],
+      "icon": [
+        "icons/icon.png"
+      ],
       "identifier": "com.lensfolio.dev",
       "longDescription": "",
       "macOS": {
