@@ -1,5 +1,8 @@
 # 光影管家 (Lensfolio) - MVP版本
 
+> Copyright (c) 2025 Joe-rq
+> Licensed under the MIT License
+
 一个简单的本地图片管理工具，支持基础的图片浏览、标签管理和按日期重命名功能。
 
 ## 功能特点
@@ -106,4 +109,4 @@ npm run tauri build
 
 ## 许可证
 
-MIT License 
+MIT License © 2025 Joe-rq 
